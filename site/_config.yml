@@ -92,6 +92,6 @@ tag_page_dir: tag
 tag_page_layout: tag_page
 tag_permalink_style: /:title
 
-domain: rupaliwadhawan1.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+   # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rupaliwadhawan1.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
