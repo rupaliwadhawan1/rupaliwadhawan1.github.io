@@ -1,0 +1,9 @@
+logo_image: /uploads/ivory-pink-minimalist-wedding-planner-logo-2.png
+menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: Projects
+      url: /projects/
+    - title: About
+      url: /about/
