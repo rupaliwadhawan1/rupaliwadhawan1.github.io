@@ -1,5 +1,7 @@
 title: Vonge
 
+theme: jekyll-theme-vonge
+
 plugins:
   - jekyll-bookshop
   - cloudcannon-jekyll-bookshop
